@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\bin\Debug\netcoreapp3.0\Frekwencja.exe
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\bin\Debug\netcoreapp3.0\Frekwencja.deps.json
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\bin\Debug\netcoreapp3.0\Frekwencja.runtimeconfig.json
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\bin\Debug\netcoreapp3.0\Frekwencja.runtimeconfig.dev.json
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\bin\Debug\netcoreapp3.0\Frekwencja.dll
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\bin\Debug\netcoreapp3.0\Frekwencja.pdb
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\obj\Debug\netcoreapp3.0\Frekwencja.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\obj\Debug\netcoreapp3.0\Frekwencja.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\obj\Debug\netcoreapp3.0\Frekwencja.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\obj\Debug\netcoreapp3.0\Frekwencja.dll
+C:\Users\User\Desktop\CSharp_Lab\Frekwencja\Frekwencja\obj\Debug\netcoreapp3.0\Frekwencja.pdb
