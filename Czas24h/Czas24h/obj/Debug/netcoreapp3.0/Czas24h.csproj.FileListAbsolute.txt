@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\bin\Debug\netcoreapp3.0\Czas24h.exe
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\bin\Debug\netcoreapp3.0\Czas24h.deps.json
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\bin\Debug\netcoreapp3.0\Czas24h.runtimeconfig.json
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\bin\Debug\netcoreapp3.0\Czas24h.runtimeconfig.dev.json
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\bin\Debug\netcoreapp3.0\Czas24h.dll
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\bin\Debug\netcoreapp3.0\Czas24h.pdb
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\obj\Debug\netcoreapp3.0\Czas24h.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\obj\Debug\netcoreapp3.0\Czas24h.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\obj\Debug\netcoreapp3.0\Czas24h.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\obj\Debug\netcoreapp3.0\Czas24h.dll
+C:\Users\User\Desktop\CSharp_Lab\Czas24h\Czas24h\obj\Debug\netcoreapp3.0\Czas24h.pdb
