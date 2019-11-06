@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\bin\Debug\netcoreapp3.0\Minimum Bounding Rectangle.exe
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\bin\Debug\netcoreapp3.0\Minimum Bounding Rectangle.deps.json
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\bin\Debug\netcoreapp3.0\Minimum Bounding Rectangle.runtimeconfig.json
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\bin\Debug\netcoreapp3.0\Minimum Bounding Rectangle.runtimeconfig.dev.json
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\bin\Debug\netcoreapp3.0\Minimum Bounding Rectangle.dll
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\bin\Debug\netcoreapp3.0\Minimum Bounding Rectangle.pdb
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\obj\Debug\netcoreapp3.0\Minimum Bounding Rectangle.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\obj\Debug\netcoreapp3.0\Minimum Bounding Rectangle.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\obj\Debug\netcoreapp3.0\Minimum Bounding Rectangle.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\obj\Debug\netcoreapp3.0\Minimum Bounding Rectangle.dll
+C:\Users\User\Desktop\CSharp_Lab\Minimum Bounding Rectangle\Minimum Bounding Rectangle\obj\Debug\netcoreapp3.0\Minimum Bounding Rectangle.pdb
