@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\bin\Debug\netcoreapp3.0\PojazdyLib.exe
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\bin\Debug\netcoreapp3.0\PojazdyLib.deps.json
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\bin\Debug\netcoreapp3.0\PojazdyLib.runtimeconfig.json
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\bin\Debug\netcoreapp3.0\PojazdyLib.runtimeconfig.dev.json
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\bin\Debug\netcoreapp3.0\PojazdyLib.dll
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\bin\Debug\netcoreapp3.0\PojazdyLib.pdb
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\obj\Debug\netcoreapp3.0\PojazdyLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\obj\Debug\netcoreapp3.0\PojazdyLib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\obj\Debug\netcoreapp3.0\PojazdyLib.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\obj\Debug\netcoreapp3.0\PojazdyLib.dll
+C:\Users\User\Desktop\CSharp_Lab\PojazdyLib\PojazdyLib\obj\Debug\netcoreapp3.0\PojazdyLib.pdb
